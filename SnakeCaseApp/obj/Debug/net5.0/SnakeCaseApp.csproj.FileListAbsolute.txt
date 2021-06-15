@@ -1,0 +1,16 @@
+C:\Users\Lia Calderon\Desktop\Proyectos\Snake_Case\SnakeCaseApp\bin\Debug\net5.0\SnakeCaseApp.exe
+C:\Users\Lia Calderon\Desktop\Proyectos\Snake_Case\SnakeCaseApp\bin\Debug\net5.0\SnakeCaseApp.deps.json
+C:\Users\Lia Calderon\Desktop\Proyectos\Snake_Case\SnakeCaseApp\bin\Debug\net5.0\SnakeCaseApp.runtimeconfig.json
+C:\Users\Lia Calderon\Desktop\Proyectos\Snake_Case\SnakeCaseApp\bin\Debug\net5.0\SnakeCaseApp.runtimeconfig.dev.json
+C:\Users\Lia Calderon\Desktop\Proyectos\Snake_Case\SnakeCaseApp\bin\Debug\net5.0\SnakeCaseApp.dll
+C:\Users\Lia Calderon\Desktop\Proyectos\Snake_Case\SnakeCaseApp\bin\Debug\net5.0\ref\SnakeCaseApp.dll
+C:\Users\Lia Calderon\Desktop\Proyectos\Snake_Case\SnakeCaseApp\bin\Debug\net5.0\SnakeCaseApp.pdb
+C:\Users\Lia Calderon\Desktop\Proyectos\Snake_Case\SnakeCaseApp\obj\Debug\net5.0\SnakeCaseApp.csprojAssemblyReference.cache
+C:\Users\Lia Calderon\Desktop\Proyectos\Snake_Case\SnakeCaseApp\obj\Debug\net5.0\SnakeCaseApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lia Calderon\Desktop\Proyectos\Snake_Case\SnakeCaseApp\obj\Debug\net5.0\SnakeCaseApp.AssemblyInfoInputs.cache
+C:\Users\Lia Calderon\Desktop\Proyectos\Snake_Case\SnakeCaseApp\obj\Debug\net5.0\SnakeCaseApp.AssemblyInfo.cs
+C:\Users\Lia Calderon\Desktop\Proyectos\Snake_Case\SnakeCaseApp\obj\Debug\net5.0\SnakeCaseApp.csproj.CoreCompileInputs.cache
+C:\Users\Lia Calderon\Desktop\Proyectos\Snake_Case\SnakeCaseApp\obj\Debug\net5.0\SnakeCaseApp.dll
+C:\Users\Lia Calderon\Desktop\Proyectos\Snake_Case\SnakeCaseApp\obj\Debug\net5.0\ref\SnakeCaseApp.dll
+C:\Users\Lia Calderon\Desktop\Proyectos\Snake_Case\SnakeCaseApp\obj\Debug\net5.0\SnakeCaseApp.pdb
+C:\Users\Lia Calderon\Desktop\Proyectos\Snake_Case\SnakeCaseApp\obj\Debug\net5.0\SnakeCaseApp.genruntimeconfig.cache
